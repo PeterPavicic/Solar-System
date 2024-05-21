@@ -1,0 +1,2 @@
+"# Solar-System"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/YoungPetya/Solar-System.gitgit push -u origin main
+"# Solar-System"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/YoungPetya/Solar-System.gitgit push -u origin main
